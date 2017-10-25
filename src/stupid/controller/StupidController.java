@@ -8,6 +8,7 @@ import java.util.Scanner;
 
 public class StupidController
 {
+	/*
 	public void start()
 	{
 		System.out.println("I like dogs");
@@ -23,4 +24,9 @@ public class StupidController
 		String answer = firstScanner.nextLine();
 		System.out.println("Oh cool, you like " + answer);
 	}
+	*/
+	
+	private String[] dogs;
+	
+	private int[] numbers;
 }
